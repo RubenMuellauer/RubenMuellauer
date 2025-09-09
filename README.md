@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a 20-year-old developer with a passion for IT. I graduated from a Technical School (HTL) specializing in Information Technology.<br><br>💻 I have experience with HTML, CSS, Vue.js, and JavaScript. Currently, I’m working at SRB Consulting, where I’m diving into SAP UI5.<br><br>🚀 I’m always excited to learn new technologies and grow my skillset. Feel free to explore my projects and reach out if you’d like to collaborate or chat about tech!
+I'm a 20-year-old Frontend-Developer with a passion for IT. I graduated from a Technical School (HTL) specializing in Information Technology.<br><br>💼Currently, I’m a Junior SAPUI5 Frontend-Developer at SRB Consulting Team GmbH<br><br>💻 I have experience with SAPUI5, HTML, JavaScript, CSS and Vue.js. <br><br>🚀 I’m always excited to learn new technologies and grow my skillset. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruben_muellauer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruben-müllauer-540a85295) 
